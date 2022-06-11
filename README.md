@@ -1,5 +1,9 @@
 המטלה נכתבה במקור ע"י יואב גרוס ואלעד נביאי, סטודנטים משנים קודמות.
 
+In order to run the class just download the zip file, extract the files and in the main folder open ubuntu/wsl terminal
+run ./main for the interface
+run ./Test.o for the tests
+
 # ליגת כדורסל
 
 *** קראו את המטלה עד סופה לפני שתתחילו לעבוד, בייחוד את סעיף ההערות ***
